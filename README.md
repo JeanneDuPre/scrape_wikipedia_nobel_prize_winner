@@ -23,7 +23,7 @@ Following this, all tables were merged
 
 ## The data was subsequently analyzed and visualized, revealing the following latent themes:
 #### 1. Nobel Peace Prizes, which have been awarded since 1901, have almost been overtaken by economics, which has only been awarded since 1969 (excluding the organizations).
-![alt text](https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner/blob/main/pie_chart_nobelpreis_kategorien_englisch.png?raw=true)
+![alt text](https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner/blob/main/images/pie_chart_nobelpreis_kategorien_englisch.png)
 #### 2. In contrast to men, women are mostly writers or activists alongside physicists and chemists. Men are usually physicists, chemists, writers, doctors.
 #### 3. Where is half of the world's population represented?
 #### 4. TODO
