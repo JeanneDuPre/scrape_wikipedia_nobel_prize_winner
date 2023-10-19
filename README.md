@@ -28,14 +28,15 @@ Following this, all tables were merged
 ### 3. Where is half of the world's population represented?
 ![alt text](https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner/blob/main/images/bar_chart_nobelpreis_gender.png)
 ### 4. Info
-Total: 972 Nobel laureates
-Citizenship:   89 %   one citizenship
-               10 %   two citizenships
-               0.4 %  three citizenships
-Age:   638 Nobel laureates have already passed away.
-       The average age is 81 years, with the oldest individual being 104 years old.
+Total: 972 Nobel laureates<br/>
+Citizenship:   89 %   one citizenship<br/>
+               10 %   two citizenships<br/>
+               0.4 %  three citizenships<br/>
+Age:   638 Nobel laureates have already passed away.<br/>
+       The average age is 81 years, with the oldest individual being 104 years old.<br/>
        
-### 5. In relation to population figures, measure the Nobel laureate rate (condition most than 10 Nobel laureates)
+### 5. In relation to population figures, measure the Nobel laureate rate (Under the condition that only countries with more than 10 Nobel laureates are considered.)
+![alt text](https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner/blob/main/images/dataset_quote_pro_100000.png)
 
 
 
