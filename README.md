@@ -45,7 +45,8 @@ Age:
 ### 5. Quote pro 100 000
 #### In relation to population figures, measure the Nobel laureate rate (Under the condition that only countries with more than 10 Nobel laureates are considered.)
 ![alt text](https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner/blob/main/images/dataset_quote_pro_100000.png)
-
+### 6. Educational Migration of Nobel Laureates
+![alt text](https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner/blob/main/images/bar_chart_nationality_1_2.png)
 
 
 
