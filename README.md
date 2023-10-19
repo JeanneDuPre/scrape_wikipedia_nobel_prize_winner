@@ -21,11 +21,11 @@ Following this, all tables were merged
 3. The Google Maps API was utilized to obtain latitude and longitude data for the countries.<br/>
 
 
-### 1. Nobel Peace Prizes, which have been awarded since 1901, have almost been overtaken by economics, which has only been awarded since 1969 (excluding the organizations).
+### 1. Nobel Prizes by Categories from 1901 to 2023
 ![alt text](https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner/blob/main/images/pie_chart_nobelpreis_kategorien_englisch.png)
-### 2. In contrast to men, women are mostly writers or activists alongside physicists and chemists. Men are usually physicists, chemists, writers, doctors.
+### 2. Nobel Prizes among Women from 1901 to 2023
 ![alt text](https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner/blob/main/images/pie_chart_nobelpreis_kategorien_frauen_englisch.png)
-### 3. Where is half of the world's population represented?
+### 3. Nobel Laureats by Gender from 1901 to 2023
 ![alt text](https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner/blob/main/images/bar_chart_nobelpreis_gender.png)
 ### 4. Info
 
@@ -43,7 +43,8 @@ Age:
   638 Nobel laureates have already passed away.<br/>
   The average age is 81 years, with the oldest individual being 104 years old.<br/>
        
-### 5. In relation to population figures, measure the Nobel laureate rate (Under the condition that only countries with more than 10 Nobel laureates are considered.)
+### 5. Quote pro 100 000
+#### In relation to population figures, measure the Nobel laureate rate (Under the condition that only countries with more than 10 Nobel laureates are considered.)
 ![alt text](https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner/blob/main/images/dataset_quote_pro_100000.png)
 
 
