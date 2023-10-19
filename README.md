@@ -26,6 +26,7 @@ Following this, all tables were merged
 ### 2. In contrast to men, women are mostly writers or activists alongside physicists and chemists. Men are usually physicists, chemists, writers, doctors.
 ![alt text](https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner/blob/main/images/pie_chart_nobelpreis_kategorien_frauen_englisch.png)
 ### 3. Where is half of the world's population represented?
+![alt text](https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner/blob/main/images/bar_chart_nobelpreis_gender.png)
 ### 4. TODO
 ### 5. TODO
 ### 6. TODO
