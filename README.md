@@ -1,4 +1,3 @@
-# scrape_wikipedia_nobel_prize_winner
 # Project Nobel Laureates
 
 ## Data Collection
