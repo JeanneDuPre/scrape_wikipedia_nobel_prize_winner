@@ -14,9 +14,9 @@
 #### Following this, all tables were merged
 
 ## Data Cleaning
-#### 1. New tables, especially derived from the first Wikipedia paragraph, were created using regex (birth date, death date, birthplace, place of death, occupation, nationality, gender, number of nationalities).
-#### 2. Values were consolidated (occupation, nationality).
-#### 3. The Google Maps API was utilized to obtain latitude and longitude data for the countries.
+1. New tables, especially derived from the first Wikipedia paragraph, were created using regex (birth date, death date, birthplace, place of death, occupation, nationality, gender, number of nationalities).<br/>
+2. Values were consolidated (occupation, nationality).<br/>
+3. The Google Maps API was utilized to obtain latitude and longitude data for the countries.
 
 ## The data was subsequently analyzed and visualized, revealing the following latent themes:
 #### 1. Nobel Peace Prizes, which have been awarded since 1901, have almost been overtaken by economics, which has only been awarded since 1969 (excluding the organizations).
